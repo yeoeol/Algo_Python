@@ -16,6 +16,5 @@ def solution(arrows):
             visited[(x, y)].append((nx, ny))
             x, y = nx, ny
 
-    print(visited)
     return answer
 
