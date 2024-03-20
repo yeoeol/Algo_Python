@@ -1,5 +1,4 @@
 N = int(input())
-k = 0
 
 #참고 자료
 #https://kbwplace.tistory.com/115
